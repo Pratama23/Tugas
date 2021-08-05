@@ -24,3 +24,5 @@ Tutorial menjalankan script ini
 
 5. jalankan perintah npm index.js dan npm start
    dan outputnya adalah "Hello world"
+
+6. jalankan node array.js
